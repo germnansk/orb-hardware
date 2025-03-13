@@ -1,4 +1,4 @@
-![Overview](overview.png)
+0xc5102fE9359FD9a28f877a67E36B0F050d81a3CC![Overview](overview.png)
 
 # Worldcoin Hardware
 
